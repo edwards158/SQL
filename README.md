@@ -15,7 +15,7 @@ courses, kaggle entries, hacks and code ideas from various sources.  The work wa
 ### Kaggle Data Science and Machine Learning
 
 * [SQL1](https://github.com/riched158/SQL/blob/master/SQL1.ipynb): Basic PostgreSQL commands
-* [Advanced Regression Techniques](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Ames_Housing1.ipynb): Exploratory Data Analysis and Regression techniques to predict houseprices.
+* [Filter IMDB](https://github.com/riched158/SQL/blob/master/SQLFiltering.ipynb): Filtering IMDB with SQlite.
 * [Pandas Dataframe Optimisation](https://github.com/riched158/Kaggle/blob/master/P1/DataFrameOptimisation.ipynb): Reducing memory footprint of a Pandas Dataframe 
 * [Titanic Prediction](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/TitanicPipelines.ipynb): Using Transforms and Ensemble methods to predict Titanic survival
 * [EDA on Titanic Dataset](https://github.com/riched158/Kaggle/blob/master/P1/Titanic4.ipynb): Exploratory Data Analysis on the Titanic Kaggle Dataset
