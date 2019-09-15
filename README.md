@@ -17,6 +17,5 @@ courses, kaggle entries, hacks and code ideas from various sources.  The work wa
 * [SQL1](https://github.com/riched158/SQL/blob/master/SQL1.ipynb): Basic PostgreSQL commands
 * [Filter IMDB](https://github.com/riched158/SQL/blob/master/SQLFiltering.ipynb): Filtering IMDB with SQlite.
 * [Joins](https://github.com/riched158/SQL/blob/master/SQLJoins.ipynb): Tutorial on joins
-* [EDA on Titanic Dataset](https://github.com/riched158/Kaggle/blob/master/P1/Titanic4.ipynb): Exploratory Data Analysis on the Titanic Kaggle Dataset
 * [Set Theory](https://github.com/riched158/SQL/blob/master/SQLSetTheory.ipynb): Investigating set theory
 
