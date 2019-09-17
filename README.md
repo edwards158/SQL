@@ -2,7 +2,7 @@
 SQL based Notebooks
 
 This repository contains some of my work using SQL.  The notebooks are experiments, 
-courses, kaggle entries, hacks and code ideas from various sources.  The work was done using SQLite and mostly PostgreSQL.  Use the pgAdmin tool allied with ipython magics to carry out the work.  Some references are:
+courses, kaggle entries, hacks and code ideas from various sources.  The work was done using SQLite but mostly PostgreSQL.  Some references are:
 
 [Simon Willison](https://github.com/simonw/csvs-to-sqlite) &nbsp;
 [DataCamp](https://www.datacamp.com/) &nbsp;
