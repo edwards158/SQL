@@ -14,12 +14,11 @@ courses, kaggle entries, hacks and code ideas from various sources.  The work wa
 
 ### Kaggle Data Science and Machine Learning
 
-* [SQL Basic](https://github.com/riched158/SQL/blob/master/SQL1.ipynb): Basic PostgreSQL commands
-* [SQL Import](https://github.com/riched158/SQL/blob/master/SQL2.ipynb): Importing and Exporting data into PostgreSQL
-* [SQL Maths](https://github.com/riched158/SQL/blob/master/SQL3.ipynb): Basic maths and stats on census data in PostgreSQL
-* [Filter IMDB](https://github.com/riched158/SQL/blob/master/SQLFiltering.ipynb): Filtering IMDB with SQlite.
-* [Joins](https://github.com/riched158/SQL/blob/master/SQLJoins.ipynb): Tutorial on joins in SQLite
-* [Set Theory](https://github.com/riched158/SQL/blob/master/SQLSetTheory.ipynb): Investigating set theory
-* [SQL Insert](https://github.com/riched158/SQL/blob/master/SQL_Exploratory_Insert.ipynb):  How to create and insert data into tables in PSQL
-* [SQL Examine](https://github.com/riched158/SQL/blob/master/SQL_Exploratory_Data_Anal1.ipynb):  Taking a first look at the data in a PSQL database
-
+* [SQL Basic](https://github.com/riched158/SQL/blob/master/sql_notebooks/SQL1.ipynb): Basic PostgreSQL commands
+* [SQL Import](https://github.com/riched158/SQL/blob/master/sql_notebooks/SQL2.ipynb): Importing and Exporting data into PostgreSQL
+* [SQL Maths](https://github.com/riched158/SQL/blob/master/sql_notebooks/SQL3.ipynb): Basic maths and stats on census data in PostgreSQL
+* [Filter IMDB](https://github.com/riched158/SQL/blob/master/sql_notebooks/SQLFiltering.ipynb): Filtering IMDB with SQlite.
+* [Joins](https://github.com/riched158/SQL/blob/master/sql_notebooks/SQLJoins.ipynb): Tutorial on joins in SQLite
+* [Set Theory](https://github.com/riched158/SQL/blob/master/sql_notebooks/SQLSetTheory.ipynb): Investigating set theory
+* [SQL Insert](https://github.com/riched158/SQL/blob/master/sql_notebooks/SQL_Exploratory_Insert.ipynb):  How to create and insert data into tables in PSQL
+* [SQL Examine](https://github.com/riched158/SQL/blob/master/sql_notebooks/SQL_Exploratory_Data_Anal1.ipynb):  Taking a first look at the data in a PSQL database
