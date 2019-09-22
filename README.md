@@ -20,4 +20,5 @@ courses, kaggle entries, hacks and code ideas from various sources.  The work wa
 * [Filter IMDB](https://github.com/riched158/SQL/blob/master/SQLFiltering.ipynb): Filtering IMDB with SQlite.
 * [Joins](https://github.com/riched158/SQL/blob/master/SQLJoins.ipynb): Tutorial on joins
 * [Set Theory](https://github.com/riched158/SQL/blob/master/SQLSetTheory.ipynb): Investigating set theory
+* [SQL Insert](https://github.com/riched158/SQL/blob/master/SQL_Exploratory_Insert.ipynb):  How to create and insert data into tables in PSQL
 
