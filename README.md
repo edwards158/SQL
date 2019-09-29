@@ -12,7 +12,6 @@ courses, kaggle entries, hacks and code ideas from various sources.  The work wa
 
 ## My Notebooks
 
-### Kaggle Data Science and Machine Learning
 
 * [SQL Basic](https://github.com/riched158/SQL/blob/master/sql_notebooks/SQL1.ipynb): Basic PostgreSQL commands
 * [SQL Import](https://github.com/riched158/SQL/blob/master/sql_notebooks/SQL2.ipynb): Importing and Exporting data into PostgreSQL
