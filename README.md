@@ -29,3 +29,4 @@ courses, kaggle entries, hacks and code ideas from various sources.  The work wa
 * [SQL Functions](https://github.com/riched158/SQL/blob/master/sql_notebooks/SQL_Exploratory_Data_Anal2.ipynb): Applying statistical functions to tables in PSQL database
 * [SQL Non-numeric data](https://github.com/riched158/SQL/blob/master/sql_notebooks/SQL_Exploratory_Data_Anal3.ipynb): Exploring non-numeric data in PSQL database
 * [DVD Rental](https://github.com/riched158/SQL/blob/master/sql_notebooks/DVDRental.ipynb): Exploring DVD Rental Database
+* [Summer Olympics part1](https://github.com/riched158/SQL/blob/master/sql_notebooks/SummerOlympics.ipynb): Analysing Summer Olympics results part1
